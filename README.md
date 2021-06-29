@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello 👋
+I am a student and junior software developer from Brisbane
+- 📚 Studying a Bachelor of Computer Science at the University of Queensland
+- 🔭 Working on multiple frontend and backend projects using React and Ruby on Rails
+<br>
+## Connect
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/LukaManitta)
+<br>
+<br>
+## Experience
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" alt="ruby on rails" src="https://img.shields.io/badge/rubyonrails%20-%2343853D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
 
-<!--
-**lukamanitta/lukamanitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
