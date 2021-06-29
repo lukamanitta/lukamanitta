@@ -1,5 +1,5 @@
 ### Hello 👋
-I am a student and junior software developer from Brisbane
+I'm Luka, a student and junior software developer from Brisbane
 - 📚 Studying a Bachelor of Computer Science at the University of Queensland
 - 🔭 Working on multiple frontend and backend projects using React and Ruby on Rails
 <br>
